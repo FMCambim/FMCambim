@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **My portfolio page and a new website for my cultural association, Micro Clima**
 
-- 🌱 I’m currently learning **Ruby on Rails, Javascript, React, Python**
+- 🌱 I’m currently developing my knowledge about **Ruby on Rails, Javascript, React, Python**
 
 - 👯 I’ve collaborated on [ToolKids](https://github.com/annarussi/ToolKids)
 
