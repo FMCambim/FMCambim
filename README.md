@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Ruby, Css, Javascript, Html, Ruby on Rails**
 
-- 📫 How to reach me **cambimfrancisco@gmail.com**
+- 📫 How to reach me: **cambimfrancisco@gmail.com**
 
 - ⚡ Fun fact: **I used to be a semi-professional surfer**
 
