@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 Francisco, here</h1>
-<h3 align="center">A passionate full stack developer from Portugal</h3>
+<h3>A passionate full stack developer from Portugal</h3>
 
 - 🔭 I’m currently working on **Micro Clima's website**
 
