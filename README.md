@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **finding a full stack or frontend developer job**
 
-- 💬 Ask me about **Ruby, Css, Javascript, Html, Ruby on Rails**
+- 💬 Ask me about **Ruby, CSS, Javascript, HTML, Ruby on Rails**
 
 - 📫 How to reach me: **cambimfrancisco@gmail.com**
 
