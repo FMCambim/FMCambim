@@ -1,5 +1,5 @@
 <h1>Hi 👋 Francisco, here</h1>
-<h3>A passionate full stack developer from Portugal</h3>
+<h3>Full stack developer from Portugal</h3>
 
 - 🔭 I’m currently working on **My portfolio page and a new website for my cultural association, Micro Clima**
 
