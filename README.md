@@ -1,4 +1,4 @@
-<h1>Hi 👋 Francisco, here</h1>
+<h1>Hi 👋 Francisco here</h1>
 <h3>Full stack developer from Portugal</h3>
 
 - 🔭 I’m currently working on **My portfolio and a new website for my cultural collective, Micro Clima**
