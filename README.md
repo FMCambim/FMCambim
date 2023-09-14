@@ -1,19 +1,12 @@
 <h1>Hi 👋 Francisco here</h1>
-<h3>Full stack developer from Portugal</h3>
 
-- 🔭 I’m currently working on **My portfolio and a new website for my cultural collective, Micro Clima**
-
-- 🌱 I’m currently developing my knowledge about **Ruby on Rails, Javascript, React, Python**
+- 🌱 I’m currently working on **a few projects of my own** and developing my knowledge about **JavaScript, React and Python**
 
 - 👯 I’ve collaborated on [ToolKids](https://github.com/annarussi/ToolKids) & [WaveBnB](https://github.com/AlfredoGaribaldi4/WAVE-BNB)
 
-- 🤝 I’m looking for help with **finding a full stack or frontend developer job**
-
-- 💬 Ask me about **Ruby, CSS, Javascript, HTML, Ruby on Rails, React**
+- 💬 Ask me about **CSS, JavaScript, HTML, Ruby on Rails, React**
 
 - 📫 How to reach me: **cambimfrancisco@gmail.com**
-
-- ⚡ Fun fact: **I used to be a semi-professional surfer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
