@@ -7,16 +7,19 @@
 
 - 🔗 **I’ve collaborated on [ToolKids](https://github.com/annarussi/ToolKids) & [WaveBnB](https://github.com/AlfredoGaribaldi4/WAVE-BNB)**
 
+<h3 align="left">Check my portfolio:</h3>
+<p align="left">
+<a href="https://franciscocambim.xyz/" target="blank"><img align="center" src="https://seeklogo.com/images/W/web-icon-logo-A6B586D114-seeklogo.com.png" alt="website" height="30" width="30" /></a>
+—> https://franciscocambim.xyz/
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/francisco martins cambim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francisco martins cambim" height="30" width="30" /></a>
 </p>
+
 <h3 align="left">Contact me:</h3>
 <p align="left">
 <a href="" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" alt="email" height="25" width="30" /></a>
 —> cambimfrancisco@gmail.com
-</p>
-<p align="left">
-<a href="https://franciscocambim.xyz/" target="blank"><img align="center" src="https://seeklogo.com/images/W/web-icon-logo-A6B586D114-seeklogo.com.png" alt="website" height="30" width="30" /></a>
-—> https://franciscocambim.xyz/
 </p>
