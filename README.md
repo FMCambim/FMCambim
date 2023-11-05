@@ -13,7 +13,9 @@
 </p>
 <p align="left">
 <a href="cambimfrancisco@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" alt="email" height="25" width="30" /></a>
-- cambimfrancisco@gmail.com
+cambimfrancisco@gmail.com
 </p>
-
-- 🌐 **https://franciscocambim.xyz/**
+<p align="left">
+<a href="https://franciscocambim.xyz/" target="blank"><img align="center" src="https://seeklogo.com/images/W/web-icon-logo-A6B586D114-seeklogo.com.png" alt="website" height="30" width="30" /></a>
+https://franciscocambim.xyz/
+</p>
