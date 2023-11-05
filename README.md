@@ -1,4 +1,4 @@
-<h1>Hi 👋 Francisco here</h1>
+<h1>![Untitled design](https://github.com/FMCambim/FMCambim/assets/130978987/13751fce-5b40-49a8-9b2d-34991834cbb2)</h1>
 
 - 🌱 I’m currently working on **a few projects of my own** and developing my knowledge about **JavaScript, React and Python**
 
