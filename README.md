@@ -13,7 +13,7 @@
 </p>
 <h3 align="left">Contact me:</h3>
 <p align="left">
-<a href="" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" alt="email" height="25" width="30" /></a>
+<a href="" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" alt="email" height="25" width="25" /></a>
 —> cambimfrancisco@gmail.com
 </p>
 <p align="left">
