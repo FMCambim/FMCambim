@@ -1,5 +1,7 @@
 <h1>![Untitled design](https://github.com/FMCambim/FMCambim/assets/130978987/13751fce-5b40-49a8-9b2d-34991834cbb2)</h1>
 
+<img width="942" alt="design" src="https://github.com/FMCambim/FMCambim/assets/130978987/13751fce-5b40-49a8-9b2d-34991834cbb2">
+
 - 🌱 I’m currently working on **a few projects of my own** and developing my knowledge about **JavaScript, React and Python**
 
 - 👯 I’ve collaborated on [ToolKids](https://github.com/annarussi/ToolKids) & [WaveBnB](https://github.com/AlfredoGaribaldi4/WAVE-BNB)
