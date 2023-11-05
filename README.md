@@ -1,6 +1,6 @@
 <img width="942" alt="design" src="https://github.com/FMCambim/FMCambim/assets/130978987/13751fce-5b40-49a8-9b2d-34991834cbb2">
 
-- 🌱 I’m currently developing new projects and learning more about **React, Python and Ruby**.
+- 🌱 I’m currently developing new projects, learning more every day and growing as a developer.
 
 - 🔗 I’ve collaborated on [ToolKids](https://github.com/annarussi/ToolKids) & [WaveBnB](https://github.com/AlfredoGaribaldi4/WAVE-BNB)
 
